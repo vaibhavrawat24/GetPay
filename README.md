@@ -4,7 +4,7 @@
 
 GetPay is an Android Payment Integration App that is a versatile and secure mobile application designed to streamline payment processing. It utilizes Java, Android Studio, and the Google Pay API to enable seamless and secure transactions.
 
-[![Working Demo]](https://youtu.be/IfxXeGF9FLo?si=ekJcpyxn52hdsPak)
+[[Working Demo]](https://youtu.be/IfxXeGF9FLo?si=ekJcpyxn52hdsPak)
 
 ## Features
 
