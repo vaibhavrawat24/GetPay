@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetPay</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+</resources>
