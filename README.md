@@ -1,1 +1,1 @@
-# PayNow
+# GetPay
